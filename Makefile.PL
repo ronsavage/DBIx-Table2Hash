@@ -4,7 +4,7 @@ use ExtUtils::MakeMaker;
 # the contents of the Makefile that is written.
 
 my(%params) =
-()
+(
 	($] ge '5.005') ?
 	(
 		'AUTHOR'	=> 'Ron Savage (ron@savage.net.au)',
