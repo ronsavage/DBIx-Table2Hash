@@ -1,6 +1,6 @@
 package DBIx::Table2Hash;
 
-se strict;
+use strict;
 use warnings;
 
 use Carp;
